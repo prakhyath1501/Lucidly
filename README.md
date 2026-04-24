@@ -53,7 +53,6 @@ Whether you're researching a topic, preparing for interviews, or just exploring 
 ```bash
 git clone https://github.com/your-username/lucidly.git
 cd lucidly
-bun install
 ```
 
 ---
